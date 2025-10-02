@@ -92,7 +92,7 @@
   // 部署模式
   // "local": 传统单机模式，WebSocket 仅监听 localhost
   // "cloud": 云部署模式，允许远程 worker 连接
-  "deployment_mode": "local",
+  "deployment_mode": "cloud",
 
   // Worker 设置
   "worker_settings": {
